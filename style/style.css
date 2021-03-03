@@ -1,0 +1,28 @@
+h2{
+    color:white;
+}
+a {
+    color: white;
+}
+header li{
+   
+    font-size: 17px;
+}
+header{
+    border-bottom: solid 2px;
+}
+.menu{
+    margin-top: 10px;
+    border-top:2px solid red;
+}
+body {
+    background-image: url(pattern.jpg);
+}
+p{
+    font-size: 11px;
+}
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgba(0 ,0 , 0 , 0.4);
+    transform: scale(1.02);
+}
+
